@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/yarabarla/portalSMS/issues"
   },
-  "homepage": "https://github.com/yarabarla/portalSMS#readme"
+  "homepage": "https://github.com/yarabarla/portalSMS#readme",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "body-parser": "^1.15.0",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "twilio": "^2.9.0"
+  }
 }
